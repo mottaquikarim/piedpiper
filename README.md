@@ -1,2 +1,1 @@
-# piedpiper
-imagine landing page for silicon valley tv show startup - pls dont sue me
+Credit: [this](https://blackrockdigital.github.io/startbootstrap-landing-page/)
