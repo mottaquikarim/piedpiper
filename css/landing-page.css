@@ -39,6 +39,10 @@ h6 {
     background-size: cover;
 }
 
+.about-header {
+    background-image: url(http://previews.123rf.com/images/rawpixel/rawpixel1501/rawpixel150103447/35339950-Large-group-of-people-Stock-Photo.jpg);
+}
+
 .intro-message {
     position: relative;
     padding-top: 20%;
